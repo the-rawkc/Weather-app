@@ -1,0 +1,1 @@
+Weather-app -> that shows the weather of the location of the selected city

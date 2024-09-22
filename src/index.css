@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.search-box input{
+    padding: 0 48px 0 42px;
+    border: 2px solid rgba(255,255,255, 0.2);
+}
+
+.search-box input::placeholder{
+    color: white;
+    text-transform: capitalize;
+}
+
+body{
+    border-color: black;
+}
